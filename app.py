@@ -128,9 +128,6 @@ def get_scatter_chart(payload_range, entered_site):
         
     return fig
 
-# Run the app and display it inline
-from IPython.display import display
-from dash import no_update
 
 
 
