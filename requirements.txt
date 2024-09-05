@@ -1,17 +1,4 @@
 dash==2.17.1
-dash-bootstrap-components==1.6.0
-dash-core-components==2.0.0
-dash-html-components==2.0.0
-dash-table==5.0.0
-debugpy==1.8.1
-decorator==5.1.1
-defusedxml==0.7.1
-exceptiongroup==1.2.1
-executing==2.0.1
-fastjsonschema==2.19.1
-Flask==3.0.3
-folium==0.17.0
-numpy==1.26.4
 pandas==2.2.2
 plotly==5.22.0
 
